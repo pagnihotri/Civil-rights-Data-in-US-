@@ -1,0 +1,7 @@
+
+Almost same male and female enrollment.
+
+Assuming the similar demographic percentage for the given data compared to the
+ US polulation, 
+the enrollment percentages for different races is coherent with the
+demographic break down by races for the US population.
